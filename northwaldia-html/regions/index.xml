@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regions on Northwaldia Wiki</title>
-    <link>http://localhost:1313/regions/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/</link>
     <description>Recent content in Regions on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/regions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Northlands</title>
-      <link>http://localhost:1313/regions/northlands-region/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/northlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/regions/northlands-region/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/northlands-region/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The North.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Southlands</title>
-      <link>http://localhost:1313/regions/southlands-region/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/southlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/regions/southlands-region/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/regions/southlands-region/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The South.&lt;/p&gt;</description>
     </item>
   </channel>

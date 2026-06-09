@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>改訂履歴 on Northwaldia Wiki</title>
-    <link>http://localhost:1313/ja/history/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/history/</link>
     <description>Recent content in 改訂履歴 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/ja/history/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/history/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>エリシア女王: 改訂履歴</title>
-      <link>http://localhost:1313/ja/history/queen-elysia/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/history/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/history/queen-elysia/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/history/queen-elysia/</guid>
       <description></description>
     </item>
   </channel>

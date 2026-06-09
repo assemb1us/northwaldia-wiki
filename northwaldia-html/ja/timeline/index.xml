@@ -2,10 +2,10 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>年表 on Northwaldia Wiki</title>
-    <link>http://localhost:1313/ja/timeline/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/timeline/</link>
     <description>Recent content in 年表 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/ja/timeline/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/timeline/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>

@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>種族 on Northwaldia Wiki</title>
-    <link>http://localhost:1313/ja/races/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/races/</link>
     <description>Recent content in 種族 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/ja/races/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/races/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>人間（女性）</title>
-      <link>http://localhost:1313/ja/races/human-female/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/races/human-female/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/races/human-female/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/races/human-female/</guid>
       <description>&lt;h2 id=&#34;説明&#34;&gt;説明&lt;/h2&gt;&#xA;&lt;p&gt;地球外の特徴を持たない人型種族。&lt;/p&gt;</description>
     </item>
   </channel>

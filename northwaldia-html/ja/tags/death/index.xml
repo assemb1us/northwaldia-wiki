@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Death on Northwaldia Wiki</title>
-    <link>http://localhost:1313/ja/tags/death/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/tags/death/</link>
     <description>Recent content in Death on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="http://localhost:1313/ja/tags/death/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/tags/death/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>アルドリック王の死</title>
-      <link>http://localhost:1313/ja/events/king-aldric-death/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/events/king-aldric-death/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ja/events/king-aldric-death/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/events/king-aldric-death/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;アルドリック王の失墜は、ノースウォルディアにおける直接統治の終わりを示す。&lt;/p&gt;</description>
     </item>
   </channel>

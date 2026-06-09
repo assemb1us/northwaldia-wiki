@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Society on Northwaldia Wiki</title>
-    <link>http://localhost:1313/tags/society/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/tags/society/</link>
     <description>Recent content in Society on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/society/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/tags/society/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Society of the Green Serpent Hideout</title>
-      <link>http://localhost:1313/places/green-serpent-hideout/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/places/green-serpent-hideout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/places/green-serpent-hideout/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/places/green-serpent-hideout/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Society of the Green Serpent maintains a hidden meeting place in Northstar.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Prehistory on Northwaldia Wiki</title>
-    <link>http://localhost:1313/tags/prehistory/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/tags/prehistory/</link>
     <description>Recent content in Prehistory on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="http://localhost:1313/tags/prehistory/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/tags/prehistory/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Age of Dinosaurs</title>
-      <link>http://localhost:1313/events/age-of-dinosaurs/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/events/age-of-dinosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/events/age-of-dinosaurs/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Dinosaurs roamed the ancient lands that would much later be known as&#xA;&lt;a href=&#34;http://localhost:1313/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/events/age-of-dinosaurs/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Dinosaurs roamed the ancient lands that would much later be known as&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
