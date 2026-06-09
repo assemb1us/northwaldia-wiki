@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>国 on Northwaldia Wiki</title>
+    <link>http://localhost:1313/ja/countries/</link>
+    <description>Recent content in 国 on Northwaldia Wiki</description>
+    <generator>Hugo</generator>
+    <language>ja</language>
+    <atom:link href="http://localhost:1313/ja/countries/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>ウェストウォルド王国</title>
+      <link>http://localhost:1313/ja/countries/westwall-country/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/countries/westwall-country/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;ウェストウォールの偉大な王国。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>ノースウォルディア</title>
+      <link>http://localhost:1313/ja/countries/northwaldia-country/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/countries/northwaldia-country/</guid>
+      <description>&lt;p&gt;ノースウォルディアの偉大な王国。&lt;/p&gt;&#xA;&lt;h2 id=&#34;歴史&#34;&gt;歴史&lt;/h2&gt;&#xA;&lt;p&gt;雨の多い国であり、誰もが傘を持っている。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>南方諸島</title>
+      <link>http://localhost:1313/ja/countries/south-isles/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/countries/south-isles/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;南方諸島の王国。&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>北方荒原</title>
+      <link>http://localhost:1313/ja/countries/northern-wastes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/ja/countries/northern-wastes/</guid>
+      <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;北方荒原。&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

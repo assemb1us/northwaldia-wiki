@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Arch-Linux on Northwaldia Wiki</title>
+    <link>http://localhost:1313/tags/arch-linux/</link>
+    <description>Recent content in Arch-Linux on Northwaldia Wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Northwald Lineage</title>
+      <link>http://localhost:1313/lineages/northwald-lineage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lineages/northwald-lineage/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Westwall Lineage</title>
+      <link>http://localhost:1313/lineages/westwall-lineage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/lineages/westwall-lineage/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwald Family</title>
+      <link>http://localhost:1313/families/northwald-family/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/northwald-family/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The royal family&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Westwall Family</title>
+      <link>http://localhost:1313/families/westwall-family/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/families/westwall-family/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>King Aldric</title>
+      <link>http://localhost:1313/characters/king-aldric/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/king-aldric/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;http://localhost:1313/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known&#xA;as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional&#xA;method of ruling his domain entirely via plain-text files and shell&#xA;scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;http://localhost:1313/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the&#xA;kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a&#xA;more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively&#xA;midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-life&#34;&gt;Early Life&lt;/h3&gt;&#xA;&lt;p&gt;Aldric&amp;rsquo;s birth in &lt;a href=&#34;http://localhost:1313/events/king-aldric-birth/&#34;&gt;the royal house of Northstar&lt;/a&gt;&#xA;is often treated as the beginning of the modern Northwald succession.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>King Belson</title>
+      <link>http://localhost:1313/characters/king-belson/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/king-belson/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;http://localhost:1313/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional method of ruling his domain entirely via plain-text files and shell scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;http://localhost:1313/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conflict-with-the-south&#34;&gt;Conflict with the South&lt;/h2&gt;&#xA;&lt;p&gt;Currently, Aldric&amp;rsquo;s forces are engaged in a long-standing border dispute with &lt;a href=&#34;http://localhost:1313/countries/south-isles/&#34;&gt;South Isles&lt;/a&gt;. This war began not over land or gold, but over a disagreement regarding the default init system for the regional network.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Melina Northwaldia</title>
+      <link>http://localhost:1313/characters/melina-princess/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/melina-princess/</guid>
+      <description>&lt;p&gt;The Princess Melina is a feisty princess.&lt;/p&gt;&#xA;&lt;p&gt;Melina is the daughter of &lt;a href=&#34;http://localhost:1313/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and&#xA;&lt;a href=&#34;http://localhost:1313/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Prince Selnor</title>
+      <link>http://localhost:1313/characters/prince-selnor/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/characters/prince-selnor/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Selnor is the son of &lt;a href=&#34;http://localhost:1313/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and &lt;a href=&#34;http://localhost:1313/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

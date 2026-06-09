@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="Golden crown favicon">
+  <rect width="64" height="64" rx="10" fill="#ffffff"/>
+  <path
+    d="M12 23l10 9 10-18 10 18 10-9-5 25H17L12 23z"
+    fill="#f4c430"
+    stroke="#8a5a00"
+    stroke-width="3"
+    stroke-linejoin="round"/>
+  <path
+    d="M18 48h28v6H18z"
+    fill="#d99a00"
+    stroke="#8a5a00"
+    stroke-width="3"
+    stroke-linejoin="round"/>
+  <circle cx="22" cy="32" r="3" fill="#ffffff" opacity=".85"/>
+  <circle cx="32" cy="25" r="3" fill="#ffffff" opacity=".85"/>
+  <circle cx="42" cy="32" r="3" fill="#ffffff" opacity=".85"/>
+</svg>

@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Map on Northwaldia Wiki</title>
+    <link>http://localhost:1313/map/</link>
+    <description>Recent content in Map on Northwaldia Wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/map/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Map of City of Northstar</title>
+      <link>http://localhost:1313/map/city-northstar-city/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/city-northstar-city/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northlands</title>
+      <link>http://localhost:1313/map/region-northlands-region/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/region-northlands-region/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northstar Castle</title>
+      <link>http://localhost:1313/map/place-northstar-castle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northstar-castle/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northstar Castle Dungeon</title>
+      <link>http://localhost:1313/map/place-northstar-castle-dungeon/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northstar-castle-dungeon/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Ancient Forest</title>
+      <link>http://localhost:1313/map/place-northwaldia-ancient-forest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-ancient-forest/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Copper Mine</title>
+      <link>http://localhost:1313/map/place-northwaldia-copper-mine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-copper-mine/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Crossroads</title>
+      <link>http://localhost:1313/map/place-northwaldia-crossroads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-crossroads/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Grand Waterfall</title>
+      <link>http://localhost:1313/map/place-northwaldia-grand-waterfall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-grand-waterfall/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Lake Serenity</title>
+      <link>http://localhost:1313/map/place-northwaldia-lake-serenity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-lake-serenity/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Mysterious Sinkhole</title>
+      <link>http://localhost:1313/map/place-northwaldia-mysterious-sinkhole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-mysterious-sinkhole/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwaldia Wizards Tower</title>
+      <link>http://localhost:1313/map/place-northwaldia-wizards-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-wizards-tower/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Northwhaldia</title>
+      <link>http://localhost:1313/map/country-northwaldia-country/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/country-northwaldia-country/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of Sewers</title>
+      <link>http://localhost:1313/map/place-northstar-sewers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northstar-sewers/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of The Bullish Bull Tavern</title>
+      <link>http://localhost:1313/map/place-northstar-bullish-bull-tavern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northstar-bullish-bull-tavern/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Map of The Lonely Inn</title>
+      <link>http://localhost:1313/map/place-northwaldia-lonely-inn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/map/place-northwaldia-lonely-inn/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>

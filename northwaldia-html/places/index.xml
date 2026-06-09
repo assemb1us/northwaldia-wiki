@@ -1,0 +1,137 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Places on Northwaldia Wiki</title>
+    <link>http://localhost:1313/places/</link>
+    <description>Recent content in Places on Northwaldia Wiki</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <atom:link href="http://localhost:1313/places/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Castle Courtyard</title>
+      <link>http://localhost:1313/places/castle-courtyard/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/castle-courtyard/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Castle Courtyard is an open central space within Northstar Castle.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;guards-hall&#34;&gt;Guards Hall&lt;/h3&gt;&#xA;&lt;p&gt;The main dungeon guards.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Castle Dungeon Entrance</title>
+      <link>http://localhost:1313/places/castle-dungeon-entrance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/castle-dungeon-entrance/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A way down to the dungeons beneath the castle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Mine entrance</title>
+      <link>http://localhost:1313/places/mine-entrance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/mine-entrance/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The partly blocked entrance to the old mine.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northstar Castle</title>
+      <link>http://localhost:1313/places/northstar-castle/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northstar-castle/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Northstar Castle stands on the northern hill within the city walls.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;castle-courtyard&#34;&gt;Castle Courtyard&lt;/h3&gt;&#xA;&lt;p&gt;The heart of the castle.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Ancient Forest</title>
+      <link>http://localhost:1313/places/northwaldia-ancient-forest/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-ancient-forest/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An ancient and unaccessible forest.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sunken-well&#34;&gt;The Sunken Well&lt;/h3&gt;&#xA;&lt;p&gt;An empty sunken well.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Copper Mine</title>
+      <link>http://localhost:1313/places/northwaldia-copper-mine/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-copper-mine/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An old copper mine in the hills of Northwaldia.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Crossroads</title>
+      <link>http://localhost:1313/places/northwaldia-crossroads/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-crossroads/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A place where roads meet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;signpost&#34;&gt;The Signpost&lt;/h3&gt;&#xA;&lt;p&gt;A signpost in the middle of the crossroad.&lt;/p&gt;&#xA;&lt;h3 id=&#34;north-road&#34;&gt;The North Road&lt;/h3&gt;&#xA;&lt;p&gt;A road leading North.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Grand Waterfall</title>
+      <link>http://localhost:1313/places/northwaldia-grand-waterfall/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-grand-waterfall/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A lot of water.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;waterfall&#34;&gt;The Waterfall&lt;/h3&gt;&#xA;&lt;p&gt;Lot&amp;rsquo;s of streaming water.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Lake Serenity</title>
+      <link>http://localhost:1313/places/northwaldia-lake-serenity/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-lake-serenity/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lake Serenity is a quiet landmark in northern Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;lakeside-road&#34;&gt;Lakeside road&lt;/h3&gt;&#xA;&lt;p&gt;An old road near the edge of a lake with dark waters.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Mysterious Sinkhole</title>
+      <link>http://localhost:1313/places/northwaldia-mysterious-sinkhole/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-mysterious-sinkhole/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An abandoned village with a big sinkhole.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;big-hole&#34;&gt;A big hole&lt;/h3&gt;&#xA;&lt;p&gt;A big hole in the ground, what might have created it?&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Northwaldia Wizards Tower</title>
+      <link>http://localhost:1313/places/northwaldia-wizards-tower/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-wizards-tower/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An isolated wizard&amp;rsquo;s tower in Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wizards-tower&#34;&gt;The Wizards Tower&lt;/h3&gt;&#xA;&lt;p&gt;The great wizards tower.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Old Cistern</title>
+      <link>http://localhost:1313/places/northstar-sewer-cistern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northstar-sewer-cistern/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An old cistern chamber beneath Northstar, still damp from runoff that seeps&#xA;through the older stonework.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Sewer Entrance</title>
+      <link>http://localhost:1313/places/northstar-sewer-entrance/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northstar-sewer-entrance/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A concealed entrance into the old sewer passages beneath Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;maintenance-hatch&#34;&gt;Maintenance Hatch&lt;/h3&gt;&#xA;&lt;p&gt;A narrow maintenance hatch opening into one of the older service tunnels.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Society of the Green Serpent Hideout</title>
+      <link>http://localhost:1313/places/green-serpent-hideout/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/green-serpent-hideout/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Society of the Green Serpent maintains a hidden meeting place in Northstar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Bullish Bull Tavern</title>
+      <link>http://localhost:1313/places/northstar-bullish-bull-tavern/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northstar-bullish-bull-tavern/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Bullish Bull Tavern is a lively gathering place in the middle of Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;main-tavern&#34;&gt;Main Tavern&lt;/h3&gt;&#xA;&lt;p&gt;The main room of The Bullish Bull&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Docks</title>
+      <link>http://localhost:1313/places/northstar-docks/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northstar-docks/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Docks serve the river traffic passing through Northstar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Great Market</title>
+      <link>http://localhost:1313/places/great-market/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/great-market/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Great Market is the central market square of Northstar.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The Lonely Inn</title>
+      <link>http://localhost:1313/places/northwaldia-lonely-inn/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/places/northwaldia-lonely-inn/</guid>
+      <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A cozy roadside inn, far out in the wilderness of Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;main-inn-building&#34;&gt;Main Inn Building&lt;/h3&gt;&#xA;&lt;p&gt;The Lonely Inn main building.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
