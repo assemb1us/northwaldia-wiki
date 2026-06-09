@@ -1,0 +1,69 @@
+# ====================
+# Generated Output
+# ====================
+
+# ====================
+# Build & Dependencies
+# ====================
+
+# Cache & Temporary files
+
+# ====================
+# Logs & Runtime
+# ====================
+*.log
+*.log
+logs/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+/resources/
+/.hugo_build.lock
+
+# Local assistant/tool history
+.aider*
+.agents/
+.codex/
+
+# Hugo build/cache artifacts
+.hugo_build.lock
+hugo_stats.json
+resources/
+
+# Editor backup/temp files
+*~
+\#*\#
+.#*
+*.swp
+*.swo
+*.tmp
+*_
+
+# OS noise
+.DS_Store
+Thumbs.db
+
+# ====================
+# Environment & Secrets
+# ====================
+.env
+.env.local
+.env.*.local
+*.key
+*.pem
+credentials.json
+
+# ====================
+# Other common ignores
+# ====================
+# Large binary files
+*.pdf
+*.zip
+*.tar.gz
+
+# If using Python-based build
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
