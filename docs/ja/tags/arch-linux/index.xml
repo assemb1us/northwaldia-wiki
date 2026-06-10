@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Arch-Linux on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/ja/tags/arch-linux/</link>
+    <link>https://northwaldia.com/ja/tags/arch-linux/</link>
     <description>Recent content in Arch-Linux on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/ja/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/ja/tags/arch-linux/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ウェストウォルド血統</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/lineages/westwall-lineage/</link>
+      <link>https://northwaldia.com/ja/lineages/westwall-lineage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/lineages/westwall-lineage/</guid>
+      <guid>https://northwaldia.com/ja/lineages/westwall-lineage/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;王族の家系。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ノースウォルド血統</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/lineages/northwald-lineage/</link>
+      <link>https://northwaldia.com/ja/lineages/northwald-lineage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/lineages/northwald-lineage/</guid>
+      <guid>https://northwaldia.com/ja/lineages/northwald-lineage/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;王族の家系。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ウェストウォール家</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/families/westwall-family/</link>
+      <link>https://northwaldia.com/ja/families/westwall-family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/families/westwall-family/</guid>
+      <guid>https://northwaldia.com/ja/families/westwall-family/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;王族の家系。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ノースウォルド家</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/families/northwald-family/</link>
+      <link>https://northwaldia.com/ja/families/northwald-family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/families/northwald-family/</guid>
+      <guid>https://northwaldia.com/ja/families/northwald-family/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;王家。&lt;/p&gt;</description>
     </item>
     <item>
       <title>アルドリック王</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-aldric/</link>
+      <link>https://northwaldia.com/ja/characters/king-aldric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-aldric/</guid>
-      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/countries/northwaldia-country/&#34;&gt;ノースウォルディア&lt;/a&gt;の第42代君主である。「端末の賢者」として知られ、平文ファイルとシェルスクリプトだけで領土全体を統治する型破りな方法で名高い。&lt;/p&gt;&#xA;&lt;p&gt;彼は、王国の暗号防衛を監督する&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;と王座を分かち合っている。夫とは異なり、エリシアは統治においてより「Debian-stable」な方針を好み、そのため王宮では夜半の活発な議論が絶えない。&lt;/p&gt;&#xA;&lt;h3 id=&#34;幼少期&#34;&gt;幼少期&lt;/h3&gt;&#xA;&lt;p&gt;foo&lt;/p&gt;&#xA;&lt;h2 id=&#34;南方との対立&#34;&gt;南方との対立&lt;/h2&gt;&#xA;&lt;p&gt;現在、アルドリックの軍勢は&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/countries/south-isles/&#34;&gt;南方諸島&lt;/a&gt;との長年にわたる国境紛争に従事している。この戦争は土地や黄金をめぐって始まったものではなく、地域ネットワークのデフォルトinitシステムをめぐる意見の相違から始まった。&lt;/p&gt;&#xA;&lt;h2 id=&#34;装備と道具&#34;&gt;装備と道具&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは、ギット山の炎で鍛えられた魔法の機械式キーボードを手放すことがほとんどない。彼がキーを打つと、王国の設定ファイルそのものがリアルタイムで更新されると言われている。&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/ja/characters/king-aldric/</guid>
+      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは&lt;a href=&#34;https://northwaldia.com/ja/countries/northwaldia-country/&#34;&gt;ノースウォルディア&lt;/a&gt;の第42代君主である。「端末の賢者」として知られ、平文ファイルとシェルスクリプトだけで領土全体を統治する型破りな方法で名高い。&lt;/p&gt;&#xA;&lt;p&gt;彼は、王国の暗号防衛を監督する&lt;a href=&#34;https://northwaldia.com/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;と王座を分かち合っている。夫とは異なり、エリシアは統治においてより「Debian-stable」な方針を好み、そのため王宮では夜半の活発な議論が絶えない。&lt;/p&gt;&#xA;&lt;h3 id=&#34;幼少期&#34;&gt;幼少期&lt;/h3&gt;&#xA;&lt;p&gt;foo&lt;/p&gt;&#xA;&lt;h2 id=&#34;南方との対立&#34;&gt;南方との対立&lt;/h2&gt;&#xA;&lt;p&gt;現在、アルドリックの軍勢は&lt;a href=&#34;https://northwaldia.com/ja/countries/south-isles/&#34;&gt;南方諸島&lt;/a&gt;との長年にわたる国境紛争に従事している。この戦争は土地や黄金をめぐって始まったものではなく、地域ネットワークのデフォルトinitシステムをめぐる意見の相違から始まった。&lt;/p&gt;&#xA;&lt;h2 id=&#34;装備と道具&#34;&gt;装備と道具&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは、ギット山の炎で鍛えられた魔法の機械式キーボードを手放すことがほとんどない。彼がキーを打つと、王国の設定ファイルそのものがリアルタイムで更新されると言われている。&lt;/p&gt;</description>
     </item>
     <item>
       <title>セルノール王子</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/characters/prince-selnor/</link>
+      <link>https://northwaldia.com/ja/characters/prince-selnor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/characters/prince-selnor/</guid>
-      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;セルノールは&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-aldric/&#34;&gt;アルドリック王&lt;/a&gt;と&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;の息子である。&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/ja/characters/prince-selnor/</guid>
+      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;セルノールは&lt;a href=&#34;https://northwaldia.com/ja/characters/king-aldric/&#34;&gt;アルドリック王&lt;/a&gt;と&lt;a href=&#34;https://northwaldia.com/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;の息子である。&lt;/p&gt;</description>
     </item>
     <item>
       <title>ベルソン王</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-belson/</link>
+      <link>https://northwaldia.com/ja/characters/king-belson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-belson/</guid>
-      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/countries/northwaldia-country/&#34;&gt;ノースウォルディア&lt;/a&gt;の第42代君主である。「端末の賢者」として知られ、平文ファイルとシェルスクリプトだけで領土全体を統治する型破りな方法で名高い。&lt;/p&gt;&#xA;&lt;p&gt;彼は、王国の暗号防衛を監督する&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;と王座を分かち合っている。夫とは異なり、エリシアは統治においてより「Debian-stable」な方針を好み、そのため王宮では夜半の活発な議論が絶えない。&lt;/p&gt;&#xA;&lt;h2 id=&#34;南方との対立&#34;&gt;南方との対立&lt;/h2&gt;&#xA;&lt;p&gt;現在、アルドリックの軍勢は&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/countries/south-isles/&#34;&gt;南方諸島&lt;/a&gt;との長年にわたる国境紛争に従事している。この戦争は土地や黄金をめぐって始まったものではなく、地域ネットワークのデフォルトinitシステムをめぐる意見の相違から始まった。&lt;/p&gt;&#xA;&lt;h2 id=&#34;装備と道具&#34;&gt;装備と道具&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは、ギット山の炎で鍛えられた魔法の機械式キーボードを手放すことがほとんどない。彼がキーを打つと、王国の設定ファイルそのものがリアルタイムで更新されると言われている。&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/ja/characters/king-belson/</guid>
+      <description>&lt;h2 id=&#34;略歴&#34;&gt;略歴&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは&lt;a href=&#34;https://northwaldia.com/ja/countries/northwaldia-country/&#34;&gt;ノースウォルディア&lt;/a&gt;の第42代君主である。「端末の賢者」として知られ、平文ファイルとシェルスクリプトだけで領土全体を統治する型破りな方法で名高い。&lt;/p&gt;&#xA;&lt;p&gt;彼は、王国の暗号防衛を監督する&lt;a href=&#34;https://northwaldia.com/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;と王座を分かち合っている。夫とは異なり、エリシアは統治においてより「Debian-stable」な方針を好み、そのため王宮では夜半の活発な議論が絶えない。&lt;/p&gt;&#xA;&lt;h2 id=&#34;南方との対立&#34;&gt;南方との対立&lt;/h2&gt;&#xA;&lt;p&gt;現在、アルドリックの軍勢は&lt;a href=&#34;https://northwaldia.com/ja/countries/south-isles/&#34;&gt;南方諸島&lt;/a&gt;との長年にわたる国境紛争に従事している。この戦争は土地や黄金をめぐって始まったものではなく、地域ネットワークのデフォルトinitシステムをめぐる意見の相違から始まった。&lt;/p&gt;&#xA;&lt;h2 id=&#34;装備と道具&#34;&gt;装備と道具&lt;/h2&gt;&#xA;&lt;p&gt;アルドリックは、ギット山の炎で鍛えられた魔法の機械式キーボードを手放すことがほとんどない。彼がキーを打つと、王国の設定ファイルそのものがリアルタイムで更新されると言われている。&lt;/p&gt;</description>
     </item>
     <item>
       <title>メリナ・ノースウォルディア</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/characters/melina-princess/</link>
+      <link>https://northwaldia.com/ja/characters/melina-princess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/characters/melina-princess/</guid>
-      <description>&lt;p&gt;メリナ王女は気性の強い王女である。&lt;/p&gt;&#xA;&lt;p&gt;メリナは&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/king-aldric/&#34;&gt;アルドリック王&lt;/a&gt;と&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;の娘である。&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/ja/characters/melina-princess/</guid>
+      <description>&lt;p&gt;メリナ王女は気性の強い王女である。&lt;/p&gt;&#xA;&lt;p&gt;メリナは&lt;a href=&#34;https://northwaldia.com/ja/characters/king-aldric/&#34;&gt;アルドリック王&lt;/a&gt;と&#xA;&lt;a href=&#34;https://northwaldia.com/ja/characters/queen-elysia/&#34;&gt;エリシア女王&lt;/a&gt;の娘である。&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northstar on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/ja/tags/northstar/</link>
+    <link>https://northwaldia.com/ja/tags/northstar/</link>
     <description>Recent content in Northstar on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/ja/tags/northstar/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/ja/tags/northstar/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ノーススター大戦</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/events/great-battle-of-northstar/</link>
+      <link>https://northwaldia.com/ja/events/great-battle-of-northstar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/events/great-battle-of-northstar/</guid>
+      <guid>https://northwaldia.com/ja/events/great-battle-of-northstar/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;ノーススター大戦は、後期ノースウォルド紛争の中で都市の北方にて戦われた。&lt;/p&gt;</description>
     </item>
     <item>
       <title>緑蛇結社の隠れ家</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/places/green-serpent-hideout/</link>
+      <link>https://northwaldia.com/ja/places/green-serpent-hideout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/places/green-serpent-hideout/</guid>
+      <guid>https://northwaldia.com/ja/places/green-serpent-hideout/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;緑蛇結社はノーススターに隠された集会場所を維持しています。&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,450 +2,450 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/</link>
+    <link>https://northwaldia.com/</link>
     <description>Recent content on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Dondon</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/users/dondon-user/</link>
+      <link>https://northwaldia.com/users/dondon-user/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/users/dondon-user/</guid>
+      <guid>https://northwaldia.com/users/dondon-user/</guid>
       <description>&lt;h2 id=&#34;about-me&#34;&gt;About me&lt;/h2&gt;&#xA;&lt;p&gt;Cleaning up what needs cleaning. The most diligent janitor.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northlands</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/regions/northlands-region/</link>
+      <link>https://northwaldia.com/regions/northlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/regions/northlands-region/</guid>
+      <guid>https://northwaldia.com/regions/northlands-region/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The North.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Southlands</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/regions/southlands-region/</link>
+      <link>https://northwaldia.com/regions/southlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/regions/southlands-region/</guid>
+      <guid>https://northwaldia.com/regions/southlands-region/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The South.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Human (Female)</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/races/human-female/</link>
+      <link>https://northwaldia.com/races/human-female/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/races/human-female/</guid>
+      <guid>https://northwaldia.com/races/human-female/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Humanoids without non-Earth traits.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Magic (use of)</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/magic/magic-use-of/</link>
+      <link>https://northwaldia.com/magic/magic-use-of/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/magic/magic-use-of/</guid>
+      <guid>https://northwaldia.com/magic/magic-use-of/</guid>
       <description>&lt;p&gt;Using magic&lt;/p&gt;&#xA;&lt;h2 id=&#34;magic-does-not-exist&#34;&gt;Magic does not exist&lt;/h2&gt;&#xA;&lt;p&gt;Magic is not known to exist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wands&#34;&gt;Wands&lt;/h2&gt;</description>
     </item>
     <item>
       <title>Northwald Lineage</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/lineages/northwald-lineage/</link>
+      <link>https://northwaldia.com/lineages/northwald-lineage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/lineages/northwald-lineage/</guid>
+      <guid>https://northwaldia.com/lineages/northwald-lineage/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
     </item>
     <item>
       <title>Westwall Lineage</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/lineages/westwall-lineage/</link>
+      <link>https://northwaldia.com/lineages/westwall-lineage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/lineages/westwall-lineage/</guid>
+      <guid>https://northwaldia.com/lineages/westwall-lineage/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwald Family</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/families/northwald-family/</link>
+      <link>https://northwaldia.com/families/northwald-family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/families/northwald-family/</guid>
+      <guid>https://northwaldia.com/families/northwald-family/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The royal family&lt;/p&gt;</description>
     </item>
     <item>
       <title>Westwall Family</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/families/westwall-family/</link>
+      <link>https://northwaldia.com/families/westwall-family/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/families/westwall-family/</guid>
+      <guid>https://northwaldia.com/families/westwall-family/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Family of royals&lt;/p&gt;</description>
     </item>
     <item>
       <title>Kingdom of Westwall</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/westwall-country/</link>
+      <link>https://northwaldia.com/countries/westwall-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/westwall-country/</guid>
+      <guid>https://northwaldia.com/countries/westwall-country/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The great kingdom of Westwall.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northern Wastes</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/northern-wastes/</link>
+      <link>https://northwaldia.com/countries/northern-wastes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/northern-wastes/</guid>
+      <guid>https://northwaldia.com/countries/northern-wastes/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Northern Wastes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwhaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/</link>
+      <link>https://northwaldia.com/countries/northwaldia-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/</guid>
+      <guid>https://northwaldia.com/countries/northwaldia-country/</guid>
       <description>&lt;p&gt;The great kingdom of Northwhaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;p&gt;A country that got a lot of rain, everyone owns an umbrella.&lt;/p&gt;</description>
     </item>
     <item>
       <title>South Isles</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/</link>
+      <link>https://northwaldia.com/countries/south-isles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/</guid>
+      <guid>https://northwaldia.com/countries/south-isles/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The kingdom of South Isles.&lt;/p&gt;</description>
     </item>
     <item>
       <title>City of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/cities/northstar-city/</link>
+      <link>https://northwaldia.com/cities/northstar-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/cities/northstar-city/</guid>
+      <guid>https://northwaldia.com/cities/northstar-city/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The great city of Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;council-hall&#34;&gt;Council Hall&lt;/h3&gt;&#xA;&lt;p&gt;Council Hall is one of the central civic buildings of Northstar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Age of Dinosaurs</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/age-of-dinosaurs/</link>
+      <link>https://northwaldia.com/events/age-of-dinosaurs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/age-of-dinosaurs/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Dinosaurs roamed the ancient lands that would much later be known as&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/events/age-of-dinosaurs/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Dinosaurs roamed the ancient lands that would much later be known as&#xA;&lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Battle of Norrica</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/battle-of-norrica/</link>
+      <link>https://northwaldia.com/events/battle-of-norrica/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/battle-of-norrica/</guid>
+      <guid>https://northwaldia.com/events/battle-of-norrica/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The Battle of Norrica is remembered in northern legend as a decisive clash of&#xA;the mythic age.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Birth of King Aldric</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-birth/</link>
+      <link>https://northwaldia.com/events/king-aldric-birth/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-birth/</guid>
-      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;King Aldric was born in &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/cities/northstar-city/&#34;&gt;Northstar City&lt;/a&gt;, within&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/events/king-aldric-birth/</guid>
+      <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;King Aldric was born in &lt;a href=&#34;https://northwaldia.com/cities/northstar-city/&#34;&gt;Northstar City&lt;/a&gt;, within&#xA;&lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwaldia&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Consort Mirena</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</link>
+      <link>https://northwaldia.com/characters/consort-mirena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/consort-mirena/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Death of King Aldric</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-death/</link>
+      <link>https://northwaldia.com/events/king-aldric-death/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-death/</guid>
+      <guid>https://northwaldia.com/events/king-aldric-death/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;King Aldric&amp;rsquo;s fall marks the end of his direct rule over Northwaldia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Founding of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/northstar-founding/</link>
+      <link>https://northwaldia.com/events/northstar-founding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/northstar-founding/</guid>
+      <guid>https://northwaldia.com/events/northstar-founding/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Northstar was founded as the northern seat that later became the heart of&#xA;Northwaldia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Founding of Northwaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/northwaldia-founding/</link>
+      <link>https://northwaldia.com/events/northwaldia-founding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/northwaldia-founding/</guid>
+      <guid>https://northwaldia.com/events/northwaldia-founding/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;Northwaldia was founded when the northern crown joined its surrounding holdings&#xA;under a single kingdom.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Founding of the Northwald Lineage</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/northwald-lineage-founding/</link>
+      <link>https://northwaldia.com/events/northwald-lineage-founding/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/northwald-lineage-founding/</guid>
+      <guid>https://northwaldia.com/events/northwald-lineage-founding/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The Northwald lineage traces its formal origin to the consolidation of the&#xA;northern royal houses.&lt;/p&gt;</description>
     </item>
     <item>
       <title>King Aldric</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/</link>
+      <link>https://northwaldia.com/characters/king-aldric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known&#xA;as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional&#xA;method of ruling his domain entirely via plain-text files and shell&#xA;scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the&#xA;kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a&#xA;more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively&#xA;midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-life&#34;&gt;Early Life&lt;/h3&gt;&#xA;&lt;p&gt;Aldric&amp;rsquo;s birth in &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-birth/&#34;&gt;the royal house of Northstar&lt;/a&gt;&#xA;is often treated as the beginning of the modern Northwald succession.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/king-aldric/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known&#xA;as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional&#xA;method of ruling his domain entirely via plain-text files and shell&#xA;scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the&#xA;kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a&#xA;more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively&#xA;midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-life&#34;&gt;Early Life&lt;/h3&gt;&#xA;&lt;p&gt;Aldric&amp;rsquo;s birth in &lt;a href=&#34;https://northwaldia.com/events/king-aldric-birth/&#34;&gt;the royal house of Northstar&lt;/a&gt;&#xA;is often treated as the beginning of the modern Northwald succession.&lt;/p&gt;</description>
     </item>
     <item>
       <title>King Belson</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/king-belson/</link>
+      <link>https://northwaldia.com/characters/king-belson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/king-belson/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional method of ruling his domain entirely via plain-text files and shell scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conflict-with-the-south&#34;&gt;Conflict with the South&lt;/h2&gt;&#xA;&lt;p&gt;Currently, Aldric&amp;rsquo;s forces are engaged in a long-standing border dispute with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/&#34;&gt;South Isles&lt;/a&gt;. This war began not over land or gold, but over a disagreement regarding the default init system for the regional network.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/king-belson/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional method of ruling his domain entirely via plain-text files and shell scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conflict-with-the-south&#34;&gt;Conflict with the South&lt;/h2&gt;&#xA;&lt;p&gt;Currently, Aldric&amp;rsquo;s forces are engaged in a long-standing border dispute with &lt;a href=&#34;https://northwaldia.com/countries/south-isles/&#34;&gt;South Isles&lt;/a&gt;. This war began not over land or gold, but over a disagreement regarding the default init system for the regional network.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Melina Northwaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/melina-princess/</link>
+      <link>https://northwaldia.com/characters/melina-princess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/melina-princess/</guid>
-      <description>&lt;p&gt;The Princess Melina is a feisty princess.&lt;/p&gt;&#xA;&lt;p&gt;Melina is the daughter of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/melina-princess/</guid>
+      <description>&lt;p&gt;The Princess Melina is a feisty princess.&lt;/p&gt;&#xA;&lt;p&gt;Melina is the daughter of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and&#xA;&lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prince Selnor</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/prince-selnor/</link>
+      <link>https://northwaldia.com/characters/prince-selnor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/prince-selnor/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Selnor is the son of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/prince-selnor/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Selnor is the son of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Queen Elysia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</link>
+      <link>https://northwaldia.com/characters/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/queen-elysia/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Battle of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/great-battle-of-northstar/</link>
+      <link>https://northwaldia.com/events/great-battle-of-northstar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/great-battle-of-northstar/</guid>
+      <guid>https://northwaldia.com/events/great-battle-of-northstar/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The Great Battle of Northstar was fought north of the city during the later&#xA;Northwald conflicts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castle Courtyard</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/castle-courtyard/</link>
+      <link>https://northwaldia.com/places/castle-courtyard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/castle-courtyard/</guid>
+      <guid>https://northwaldia.com/places/castle-courtyard/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Castle Courtyard is an open central space within Northstar Castle.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;guards-hall&#34;&gt;Guards Hall&lt;/h3&gt;&#xA;&lt;p&gt;The main dungeon guards.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Castle Dungeon Entrance</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/castle-dungeon-entrance/</link>
+      <link>https://northwaldia.com/places/castle-dungeon-entrance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/castle-dungeon-entrance/</guid>
+      <guid>https://northwaldia.com/places/castle-dungeon-entrance/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A way down to the dungeons beneath the castle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Elysia Northwaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/talk/queen-elysia/</link>
+      <link>https://northwaldia.com/talk/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/talk/queen-elysia/</guid>
-      <description>&lt;h2 id=&#34;background-rework&#34;&gt;Background rework&lt;/h2&gt;&#xA;&lt;p&gt;Is the background sufficient? Can be expanded.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;  &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;  (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 3 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will be doing this soon.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;      &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;      (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 14 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will be doing this very soon.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;          &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;          (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 14 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
+      <guid>https://northwaldia.com/talk/queen-elysia/</guid>
+      <description>&lt;h2 id=&#34;background-rework&#34;&gt;Background rework&lt;/h2&gt;&#xA;&lt;p&gt;Is the background sufficient? Can be expanded.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;  &lt;a href=&#34;https://northwaldia.com/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;  (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 3 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will be doing this soon.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;      &lt;a href=&#34;https://northwaldia.com/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;      (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 14 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Will be doing this very soon.&#xA;&lt;span class=&#34;user-sig&#34;&gt; - &#xA;          &lt;a href=&#34;https://northwaldia.com/users/dondon-user/&#34; title=&#34;User:DonDon&#34;&gt;DonDon&lt;/a&gt;&#xA;          (&lt;a href=&#34;#&#34; class=&#34;redlink&#34; title=&#34;User talk:DonDon (page does not exist)&#34;&gt;talk&lt;/a&gt;) &lt;span class=&#34;sig-time&#34;&gt;11:34, 14 March 2025 (UTC)&lt;/span&gt;&lt;/span&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;/li&gt;&#xA;&lt;/ul&gt;</description>
     </item>
     <item>
       <title>Map of City of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/city-northstar-city/</link>
+      <link>https://northwaldia.com/map/city-northstar-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/city-northstar-city/</guid>
+      <guid>https://northwaldia.com/map/city-northstar-city/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northlands</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/region-northlands-region/</link>
+      <link>https://northwaldia.com/map/region-northlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/region-northlands-region/</guid>
+      <guid>https://northwaldia.com/map/region-northlands-region/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northstar Castle</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-castle/</link>
+      <link>https://northwaldia.com/map/place-northstar-castle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-castle/</guid>
+      <guid>https://northwaldia.com/map/place-northstar-castle/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northstar Castle Dungeon</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-castle-dungeon/</link>
+      <link>https://northwaldia.com/map/place-northstar-castle-dungeon/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-castle-dungeon/</guid>
+      <guid>https://northwaldia.com/map/place-northstar-castle-dungeon/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Ancient Forest</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-ancient-forest/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-ancient-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-ancient-forest/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-ancient-forest/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Copper Mine</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-copper-mine/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-copper-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-copper-mine/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-copper-mine/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Crossroads</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-crossroads/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-crossroads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-crossroads/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-crossroads/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Grand Waterfall</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-grand-waterfall/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-grand-waterfall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-grand-waterfall/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-grand-waterfall/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Lake Serenity</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-lake-serenity/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-lake-serenity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-lake-serenity/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-lake-serenity/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Mysterious Sinkhole</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-mysterious-sinkhole/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-mysterious-sinkhole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-mysterious-sinkhole/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-mysterious-sinkhole/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwaldia Wizards Tower</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-wizards-tower/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-wizards-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-wizards-tower/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-wizards-tower/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Northwhaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/country-northwaldia-country/</link>
+      <link>https://northwaldia.com/map/country-northwaldia-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/country-northwaldia-country/</guid>
+      <guid>https://northwaldia.com/map/country-northwaldia-country/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of Sewers</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-sewers/</link>
+      <link>https://northwaldia.com/map/place-northstar-sewers/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-sewers/</guid>
+      <guid>https://northwaldia.com/map/place-northstar-sewers/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of The Bullish Bull Tavern</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-bullish-bull-tavern/</link>
+      <link>https://northwaldia.com/map/place-northstar-bullish-bull-tavern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northstar-bullish-bull-tavern/</guid>
+      <guid>https://northwaldia.com/map/place-northstar-bullish-bull-tavern/</guid>
       <description></description>
     </item>
     <item>
       <title>Map of The Lonely Inn</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-lonely-inn/</link>
+      <link>https://northwaldia.com/map/place-northwaldia-lonely-inn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/map/place-northwaldia-lonely-inn/</guid>
+      <guid>https://northwaldia.com/map/place-northwaldia-lonely-inn/</guid>
       <description></description>
     </item>
     <item>
       <title>Mine entrance</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/mine-entrance/</link>
+      <link>https://northwaldia.com/places/mine-entrance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/mine-entrance/</guid>
+      <guid>https://northwaldia.com/places/mine-entrance/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The partly blocked entrance to the old mine.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northstar Castle</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northstar-castle/</link>
+      <link>https://northwaldia.com/places/northstar-castle/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northstar-castle/</guid>
+      <guid>https://northwaldia.com/places/northstar-castle/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Northstar Castle stands on the northern hill within the city walls.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;castle-courtyard&#34;&gt;Castle Courtyard&lt;/h3&gt;&#xA;&lt;p&gt;The heart of the castle.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Ancient Forest</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-ancient-forest/</link>
+      <link>https://northwaldia.com/places/northwaldia-ancient-forest/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-ancient-forest/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-ancient-forest/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An ancient and unaccessible forest.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;sunken-well&#34;&gt;The Sunken Well&lt;/h3&gt;&#xA;&lt;p&gt;An empty sunken well.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Copper Mine</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-copper-mine/</link>
+      <link>https://northwaldia.com/places/northwaldia-copper-mine/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-copper-mine/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-copper-mine/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An old copper mine in the hills of Northwaldia.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Crossroads</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-crossroads/</link>
+      <link>https://northwaldia.com/places/northwaldia-crossroads/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-crossroads/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-crossroads/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A place where roads meet.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;signpost&#34;&gt;The Signpost&lt;/h3&gt;&#xA;&lt;p&gt;A signpost in the middle of the crossroad.&lt;/p&gt;&#xA;&lt;h3 id=&#34;north-road&#34;&gt;The North Road&lt;/h3&gt;&#xA;&lt;p&gt;A road leading North.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Grand Waterfall</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-grand-waterfall/</link>
+      <link>https://northwaldia.com/places/northwaldia-grand-waterfall/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-grand-waterfall/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-grand-waterfall/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A lot of water.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;waterfall&#34;&gt;The Waterfall&lt;/h3&gt;&#xA;&lt;p&gt;Lot&amp;rsquo;s of streaming water.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Lake Serenity</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-lake-serenity/</link>
+      <link>https://northwaldia.com/places/northwaldia-lake-serenity/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-lake-serenity/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-lake-serenity/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;Lake Serenity is a quiet landmark in northern Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;lakeside-road&#34;&gt;Lakeside road&lt;/h3&gt;&#xA;&lt;p&gt;An old road near the edge of a lake with dark waters.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Mysterious Sinkhole</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-mysterious-sinkhole/</link>
+      <link>https://northwaldia.com/places/northwaldia-mysterious-sinkhole/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-mysterious-sinkhole/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-mysterious-sinkhole/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An abandoned village with a big sinkhole.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;big-hole&#34;&gt;A big hole&lt;/h3&gt;&#xA;&lt;p&gt;A big hole in the ground, what might have created it?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwaldia Wizards Tower</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-wizards-tower/</link>
+      <link>https://northwaldia.com/places/northwaldia-wizards-tower/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-wizards-tower/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-wizards-tower/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An isolated wizard&amp;rsquo;s tower in Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;wizards-tower&#34;&gt;The Wizards Tower&lt;/h3&gt;&#xA;&lt;p&gt;The great wizards tower.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Old Cistern</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northstar-sewer-cistern/</link>
+      <link>https://northwaldia.com/places/northstar-sewer-cistern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northstar-sewer-cistern/</guid>
+      <guid>https://northwaldia.com/places/northstar-sewer-cistern/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;An old cistern chamber beneath Northstar, still damp from runoff that seeps&#xA;through the older stonework.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Queen Elysia: Revision History</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/history/queen-elysia/</link>
+      <link>https://northwaldia.com/history/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/history/queen-elysia/</guid>
+      <guid>https://northwaldia.com/history/queen-elysia/</guid>
       <description></description>
     </item>
     <item>
       <title>Sewer Entrance</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northstar-sewer-entrance/</link>
+      <link>https://northwaldia.com/places/northstar-sewer-entrance/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northstar-sewer-entrance/</guid>
+      <guid>https://northwaldia.com/places/northstar-sewer-entrance/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A concealed entrance into the old sewer passages beneath Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;maintenance-hatch&#34;&gt;Maintenance Hatch&lt;/h3&gt;&#xA;&lt;p&gt;A narrow maintenance hatch opening into one of the older service tunnels.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Society of the Green Serpent Hideout</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/green-serpent-hideout/</link>
+      <link>https://northwaldia.com/places/green-serpent-hideout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/green-serpent-hideout/</guid>
+      <guid>https://northwaldia.com/places/green-serpent-hideout/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Society of the Green Serpent maintains a hidden meeting place in Northstar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Bullish Bull Tavern</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northstar-bullish-bull-tavern/</link>
+      <link>https://northwaldia.com/places/northstar-bullish-bull-tavern/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northstar-bullish-bull-tavern/</guid>
+      <guid>https://northwaldia.com/places/northstar-bullish-bull-tavern/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Bullish Bull Tavern is a lively gathering place in the middle of Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;main-tavern&#34;&gt;Main Tavern&lt;/h3&gt;&#xA;&lt;p&gt;The main room of The Bullish Bull&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Docks</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northstar-docks/</link>
+      <link>https://northwaldia.com/places/northstar-docks/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northstar-docks/</guid>
+      <guid>https://northwaldia.com/places/northstar-docks/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Docks serve the river traffic passing through Northstar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Great Market</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/great-market/</link>
+      <link>https://northwaldia.com/places/great-market/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/great-market/</guid>
+      <guid>https://northwaldia.com/places/great-market/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Great Market is the central market square of Northstar.&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Lonely Inn</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-lonely-inn/</link>
+      <link>https://northwaldia.com/places/northwaldia-lonely-inn/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/northwaldia-lonely-inn/</guid>
+      <guid>https://northwaldia.com/places/northwaldia-lonely-inn/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;A cozy roadside inn, far out in the wilderness of Northwaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;main-inn-building&#34;&gt;Main Inn Building&lt;/h3&gt;&#xA;&lt;p&gt;The Lonely Inn main building.&lt;/p&gt;</description>
     </item>
   </channel>

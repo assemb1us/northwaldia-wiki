@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Death on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/tags/death/</link>
+    <link>https://northwaldia.com/tags/death/</link>
     <description>Recent content in Death on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/tags/death/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/tags/death/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Death of King Aldric</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-death/</link>
+      <link>https://northwaldia.com/events/king-aldric-death/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-death/</guid>
+      <guid>https://northwaldia.com/events/king-aldric-death/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;King Aldric&amp;rsquo;s fall marks the end of his direct rule over Northwaldia.&lt;/p&gt;</description>
     </item>
   </channel>

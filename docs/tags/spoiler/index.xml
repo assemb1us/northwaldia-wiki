@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Spoiler on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/tags/spoiler/</link>
+    <link>https://northwaldia.com/tags/spoiler/</link>
     <description>Recent content in Spoiler on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/tags/spoiler/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/tags/spoiler/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The Great Battle of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/events/great-battle-of-northstar/</link>
+      <link>https://northwaldia.com/events/great-battle-of-northstar/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/events/great-battle-of-northstar/</guid>
+      <guid>https://northwaldia.com/events/great-battle-of-northstar/</guid>
       <description>&lt;h2 id=&#34;summary&#34;&gt;Summary&lt;/h2&gt;&#xA;&lt;p&gt;The Great Battle of Northstar was fought north of the city during the later&#xA;Northwald conflicts.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Society of the Green Serpent Hideout</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/places/green-serpent-hideout/</link>
+      <link>https://northwaldia.com/places/green-serpent-hideout/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/places/green-serpent-hideout/</guid>
+      <guid>https://northwaldia.com/places/green-serpent-hideout/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Society of the Green Serpent maintains a hidden meeting place in Northstar.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>地域 on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/ja/regions/</link>
+    <link>https://northwaldia.com/ja/regions/</link>
     <description>Recent content in 地域 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/ja/regions/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/ja/regions/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>南方地方</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/regions/southlands-region/</link>
+      <link>https://northwaldia.com/ja/regions/southlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/regions/southlands-region/</guid>
+      <guid>https://northwaldia.com/ja/regions/southlands-region/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;南方。&lt;/p&gt;</description>
     </item>
     <item>
       <title>北方地方</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/regions/northlands-region/</link>
+      <link>https://northwaldia.com/ja/regions/northlands-region/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/regions/northlands-region/</guid>
+      <guid>https://northwaldia.com/ja/regions/northlands-region/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;北方。&lt;/p&gt;</description>
     </item>
   </channel>

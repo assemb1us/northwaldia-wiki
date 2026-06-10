@@ -2,52 +2,52 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Characters on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/characters/</link>
+    <link>https://northwaldia.com/characters/</link>
     <description>Recent content in Characters on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/characters/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/characters/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consort Mirena</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</link>
+      <link>https://northwaldia.com/characters/consort-mirena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/consort-mirena/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>King Aldric</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/</link>
+      <link>https://northwaldia.com/characters/king-aldric/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known&#xA;as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional&#xA;method of ruling his domain entirely via plain-text files and shell&#xA;scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the&#xA;kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a&#xA;more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively&#xA;midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-life&#34;&gt;Early Life&lt;/h3&gt;&#xA;&lt;p&gt;Aldric&amp;rsquo;s birth in &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/events/king-aldric-birth/&#34;&gt;the royal house of Northstar&lt;/a&gt;&#xA;is often treated as the beginning of the modern Northwald succession.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/king-aldric/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known&#xA;as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional&#xA;method of ruling his domain entirely via plain-text files and shell&#xA;scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the&#xA;kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a&#xA;more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively&#xA;midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h3 id=&#34;early-life&#34;&gt;Early Life&lt;/h3&gt;&#xA;&lt;p&gt;Aldric&amp;rsquo;s birth in &lt;a href=&#34;https://northwaldia.com/events/king-aldric-birth/&#34;&gt;the royal house of Northstar&lt;/a&gt;&#xA;is often treated as the beginning of the modern Northwald succession.&lt;/p&gt;</description>
     </item>
     <item>
       <title>King Belson</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/king-belson/</link>
+      <link>https://northwaldia.com/characters/king-belson/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/king-belson/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional method of ruling his domain entirely via plain-text files and shell scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conflict-with-the-south&#34;&gt;Conflict with the South&lt;/h2&gt;&#xA;&lt;p&gt;Currently, Aldric&amp;rsquo;s forces are engaged in a long-standing border dispute with &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/&#34;&gt;South Isles&lt;/a&gt;. This war began not over land or gold, but over a disagreement regarding the default init system for the regional network.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/king-belson/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Aldric is the 42nd monarch of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known as the &amp;ldquo;Sage of the Terminal,&amp;rdquo; he is famous for his unconventional method of ruling his domain entirely via plain-text files and shell scripts.&lt;/p&gt;&#xA;&lt;p&gt;He shares his throne with &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;, who oversees the kingdom&amp;rsquo;s cryptographic defenses. Unlike her husband, Elysia prefers a more &amp;ldquo;Debian-stable&amp;rdquo; approach to governance, leading to lively midnight debates in the royal court.&lt;/p&gt;&#xA;&lt;h2 id=&#34;conflict-with-the-south&#34;&gt;Conflict with the South&lt;/h2&gt;&#xA;&lt;p&gt;Currently, Aldric&amp;rsquo;s forces are engaged in a long-standing border dispute with &lt;a href=&#34;https://northwaldia.com/countries/south-isles/&#34;&gt;South Isles&lt;/a&gt;. This war began not over land or gold, but over a disagreement regarding the default init system for the regional network.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Melina Northwaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/melina-princess/</link>
+      <link>https://northwaldia.com/characters/melina-princess/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/melina-princess/</guid>
-      <description>&lt;p&gt;The Princess Melina is a feisty princess.&lt;/p&gt;&#xA;&lt;p&gt;Melina is the daughter of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and&#xA;&lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/melina-princess/</guid>
+      <description>&lt;p&gt;The Princess Melina is a feisty princess.&lt;/p&gt;&#xA;&lt;p&gt;Melina is the daughter of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and&#xA;&lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Prince Selnor</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/prince-selnor/</link>
+      <link>https://northwaldia.com/characters/prince-selnor/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/prince-selnor/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Selnor is the son of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/prince-selnor/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Selnor is the son of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt; and &lt;a href=&#34;https://northwaldia.com/characters/queen-elysia/&#34;&gt;Queen Elysia&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Queen Elysia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</link>
+      <link>https://northwaldia.com/characters/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/queen-elysia/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

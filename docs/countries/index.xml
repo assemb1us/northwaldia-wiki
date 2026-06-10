@@ -2,37 +2,37 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Countries on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/countries/</link>
+    <link>https://northwaldia.com/countries/</link>
     <description>Recent content in Countries on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/countries/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/countries/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Kingdom of Westwall</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/westwall-country/</link>
+      <link>https://northwaldia.com/countries/westwall-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/westwall-country/</guid>
+      <guid>https://northwaldia.com/countries/westwall-country/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The great kingdom of Westwall.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northern Wastes</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/northern-wastes/</link>
+      <link>https://northwaldia.com/countries/northern-wastes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/northern-wastes/</guid>
+      <guid>https://northwaldia.com/countries/northern-wastes/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The Northern Wastes.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Northwhaldia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/</link>
+      <link>https://northwaldia.com/countries/northwaldia-country/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/</guid>
+      <guid>https://northwaldia.com/countries/northwaldia-country/</guid>
       <description>&lt;p&gt;The great kingdom of Northwhaldia.&lt;/p&gt;&#xA;&lt;h2 id=&#34;history&#34;&gt;History&lt;/h2&gt;&#xA;&lt;p&gt;A country that got a lot of rain, everyone owns an umbrella.&lt;/p&gt;</description>
     </item>
     <item>
       <title>South Isles</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/</link>
+      <link>https://northwaldia.com/countries/south-isles/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/countries/south-isles/</guid>
+      <guid>https://northwaldia.com/countries/south-isles/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The kingdom of South Isles.&lt;/p&gt;</description>
     </item>
   </channel>

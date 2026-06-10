@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>魔法 on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/ja/magic/</link>
+    <link>https://northwaldia.com/ja/magic/</link>
     <description>Recent content in 魔法 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/ja/magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/ja/magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>魔法（使用）</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/ja/magic/magic-use-of/</link>
+      <link>https://northwaldia.com/ja/magic/magic-use-of/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/magic/magic-use-of/</guid>
+      <guid>https://northwaldia.com/ja/magic/magic-use-of/</guid>
       <description>&lt;p&gt;魔法を使うこと。&lt;/p&gt;&#xA;&lt;h2 id=&#34;魔法は存在しない&#34;&gt;魔法は存在しない&lt;/h2&gt;&#xA;&lt;p&gt;魔法は存在するとは知られていない。&lt;/p&gt;&#xA;&lt;h2 id=&#34;杖&#34;&gt;杖&lt;/h2&gt;</description>
     </item>
   </channel>

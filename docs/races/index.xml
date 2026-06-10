@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Races on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/races/</link>
+    <link>https://northwaldia.com/races/</link>
     <description>Recent content in Races on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/races/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/races/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Human (Female)</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/races/human-female/</link>
+      <link>https://northwaldia.com/races/human-female/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/races/human-female/</guid>
+      <guid>https://northwaldia.com/races/human-female/</guid>
       <description>&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Humanoids without non-Earth traits.&lt;/p&gt;</description>
     </item>
   </channel>

@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Debian-Stable on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/tags/debian-stable/</link>
+    <link>https://northwaldia.com/tags/debian-stable/</link>
     <description>Recent content in Debian-Stable on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/tags/debian-stable/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://northwaldia.com/tags/debian-stable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Consort Mirena</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</link>
+      <link>https://northwaldia.com/characters/consort-mirena/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/consort-mirena/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/consort-mirena/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Consort Mirena is the second queen of &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Queen Elysia</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</link>
+      <link>https://northwaldia.com/characters/queen-elysia/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/characters/queen-elysia/</guid>
-      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://assemb1us.github.io/northwaldia-wiki/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
+      <guid>https://northwaldia.com/characters/queen-elysia/</guid>
+      <description>&lt;h2 id=&#34;biography&#34;&gt;Biography&lt;/h2&gt;&#xA;&lt;p&gt;Queen Elysia is the co-ruler of &lt;a href=&#34;https://northwaldia.com/countries/northwaldia-country/&#34;&gt;Northwhaldia&lt;/a&gt;. Known throughout the realms as &amp;ldquo;The Keeper of the Keys,&amp;rdquo; she manages the kingdom&amp;rsquo;s vast cryptographic archives and ensure the stability of the realm&amp;rsquo;s core services.&lt;/p&gt;&#xA;&lt;p&gt;While her husband, &lt;a href=&#34;https://northwaldia.com/characters/king-aldric/&#34;&gt;King Aldric&lt;/a&gt;, focuses on rapid development and experimental &amp;ldquo;rolling&amp;rdquo; policies, Elysia is the voice of caution. She famously refused to update the kingdom&amp;rsquo;s primary firewall for three years, arguing that &amp;ldquo;if it isn&amp;rsquo;t broken, it&amp;rsquo;s secure.&amp;rdquo;&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
