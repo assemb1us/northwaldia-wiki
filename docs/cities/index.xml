@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Cities on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/cities/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/cities/</link>
     <description>Recent content in Cities on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/cities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/cities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>City of Northstar</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/cities/northstar-city/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/cities/northstar-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/cities/northstar-city/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/cities/northstar-city/</guid>
       <description>&lt;h2 id=&#34;overview&#34;&gt;Overview&lt;/h2&gt;&#xA;&lt;p&gt;The great city of Northstar.&lt;/p&gt;&#xA;&lt;h2 id=&#34;areas-of-interest&#34;&gt;Areas of Interest&lt;/h2&gt;&#xA;&lt;h3 id=&#34;council-hall&#34;&gt;Council Hall&lt;/h3&gt;&#xA;&lt;p&gt;Council Hall is one of the central civic buildings of Northstar.&lt;/p&gt;</description>
     </item>
   </channel>

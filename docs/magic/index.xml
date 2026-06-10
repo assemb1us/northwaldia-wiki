@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Magic on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/magic/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/magic/</link>
     <description>Recent content in Magic on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/magic/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/magic/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Magic (use of)</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/magic/magic-use-of/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/magic/magic-use-of/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/magic/magic-use-of/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/magic/magic-use-of/</guid>
       <description>&lt;p&gt;Using magic&lt;/p&gt;&#xA;&lt;h2 id=&#34;magic-does-not-exist&#34;&gt;Magic does not exist&lt;/h2&gt;&#xA;&lt;p&gt;Magic is not known to exist.&lt;/p&gt;&#xA;&lt;h2 id=&#34;wands&#34;&gt;Wands&lt;/h2&gt;</description>
     </item>
   </channel>

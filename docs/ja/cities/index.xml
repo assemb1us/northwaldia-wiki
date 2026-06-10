@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>都市 on Northwaldia Wiki</title>
-    <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/cities/</link>
+    <link>https://assemb1us.github.io/northwaldia-wiki/ja/cities/</link>
     <description>Recent content in 都市 on Northwaldia Wiki</description>
     <generator>Hugo</generator>
     <language>ja</language>
-    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/cities/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://assemb1us.github.io/northwaldia-wiki/ja/cities/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>ノーススター市</title>
-      <link>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/cities/northstar-city/</link>
+      <link>https://assemb1us.github.io/northwaldia-wiki/ja/cities/northstar-city/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://assemb1us.github.io/northwaldia-wiki/northwaldia-html/ja/cities/northstar-city/</guid>
+      <guid>https://assemb1us.github.io/northwaldia-wiki/ja/cities/northstar-city/</guid>
       <description>&lt;h2 id=&#34;概要&#34;&gt;概要&lt;/h2&gt;&#xA;&lt;p&gt;ノーススターの大都市。&lt;/p&gt;&#xA;&lt;h2 id=&#34;名所&#34;&gt;名所&lt;/h2&gt;&#xA;&lt;h3 id=&#34;council-hall&#34;&gt;評議会堂&lt;/h3&gt;&#xA;&lt;p&gt;評議会堂はノーススター中心部にある主要な公的建物の一つです。&lt;/p&gt;</description>
     </item>
   </channel>
