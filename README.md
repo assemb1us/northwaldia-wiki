@@ -1,2 +1,3 @@
 # northwaldia-wiki
-Testing wiki
+
+Generated html files for wiki website.
