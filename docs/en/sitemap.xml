@@ -614,6 +614,18 @@
                 href="https://northwaldia.com/map/place-northstar-castle-dungeon/"
                 />
   </url><url>
+    <loc>https://northwaldia.com/map/country-northwaldia-country/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ja"
+                href="https://northwaldia.com/ja/map/country-northwaldia-country/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="https://northwaldia.com/map/country-northwaldia-country/"
+                />
+  </url><url>
     <loc>https://northwaldia.com/map/place-northwaldia-ancient-forest/</loc>
     <xhtml:link
                 rel="alternate"
@@ -696,18 +708,6 @@
                 rel="alternate"
                 hreflang="en"
                 href="https://northwaldia.com/map/place-northwaldia-wizards-tower/"
-                />
-  </url><url>
-    <loc>https://northwaldia.com/map/country-northwaldia-country/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="ja"
-                href="https://northwaldia.com/ja/map/country-northwaldia-country/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="https://northwaldia.com/map/country-northwaldia-country/"
                 />
   </url><url>
     <loc>https://northwaldia.com/map/place-northstar-sewers/</loc>
